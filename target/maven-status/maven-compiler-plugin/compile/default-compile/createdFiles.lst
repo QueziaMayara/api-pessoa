@@ -1,0 +1,8 @@
+br\com\pessoas\model\Address.class
+br\com\pessoas\PessoasApplication.class
+br\com\pessoas\repository\AddressRepository.class
+br\com\pessoas\service\AddressService.class
+br\com\pessoas\model\Person.class
+br\com\pessoas\controller\PersonController.class
+br\com\pessoas\repository\PersonRepository.class
+br\com\pessoas\service\PersonService.class
